@@ -19,6 +19,10 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockseisen&count_private=true&theme=tokyonight)  
+
+
+
 
 
 [twitter]: https://twitter.com/rockseisen
