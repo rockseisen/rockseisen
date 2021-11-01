@@ -18,6 +18,8 @@
 [<img align="left" color="blue" alt="rockseisen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 <br/>
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockseisen&count_private=true&theme=tokyonight)  
 
