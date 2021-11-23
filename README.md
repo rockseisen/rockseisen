@@ -1,7 +1,7 @@
 ### Hi there, I'm Valentin "rockseisen" Röckseisen 👋
 
 - 🔭 I’m currently studying on the THI in Ingolstadt, Germany
-- 🌱 I’m currently learning how to program jenkins plugins (and also i'm working on a more simple way to create these plugins [here](https://github.com/rockseisen/jenkinsdevcli/tree/main))
+- 🌱 I’m currently learning how to program jenkins plugins
 - 🥅 Next Goals: Get my bachelors degree ✌️
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
