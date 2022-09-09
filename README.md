@@ -13,7 +13,7 @@
 
 ### Find me here:
 
-[<img style="filter: [filter];" align="left" alt="rockseisen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img style="filter: sepia(60%);" align="left" alt="rockseisen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img style="fill: blue;" align="left" alt="rockseisen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img style="fill: blue;" align="left" alt="rockseisen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
