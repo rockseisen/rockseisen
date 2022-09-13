@@ -1,4 +1,4 @@
-### Hi there, I'm Valentin "rockseisen" Röckseisen 👋
+### Hi there, I'm rockseisen 👋
 
 - 🔭 I’m currently studying on the THI in Ingolstadt, Germany
 - 🌱 Part time student job at Technica Engineering GmbH in Munich
