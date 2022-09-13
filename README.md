@@ -12,6 +12,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+### I am currently working on...
+
+- a feature for the [maven-hpi-plugin](https://github.com/jenkinsci/maven-hpi-plugin) to generate structures or stubs via a maven command
+- a jenkins plugin which enhances groovy scripting through saving scripts and adding global libraries if needed (currently on ice because the maven plugin has piqued my interest more)
+
+### Some ideas for future projects... 
+(can be stolen, just tell me you're working on it so we don't do things twice)
+
+- somehow make a new ui for javadocs (the current one is quite ugly tbh)
+- provide javadocs from dependencies when a project is opened (must probably be done through a ide plugin)
 
 ### Find me here:
 
