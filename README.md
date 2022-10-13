@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying on the THI in Ingolstadt, Germany
 - 🌱 Part time student job at Technica Engineering GmbH in Munich
 - 📫 Starting to get the gist of jenkins plugins
-- 🥅 Next Goals: Get my bachelors degree ✌️
+- 🥅 Next Goals: Get my masters degree ✌️
 - :shipit: <- best emote; change my mind
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
